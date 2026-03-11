@@ -1,6 +1,7 @@
 # Phonetool
 
 Simple PHP tools for working with South African mobile numbers. Will scale to worldwide when i have the time.
+Added WhatsApp tool for automating mass sending. Still in production...
 
 ## Features
 
